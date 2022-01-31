@@ -28,14 +28,14 @@ Material Icon Theme
     "workbench.statusBar.visible": true,
     "workbench.activityBar.visible": true,
     "editor.formatOnSave": true,
-
+  
     "workbench.colorCustomizations": {
       "statusBar.background": "#333333",
       "statusBar.noFolderBackground": "#333333",
       "statusBar.debuggingBackground": "#263238"
     },
     "editor.fontSize": 16,
-
+  
     "css.validate": false,
     "scss.validate": false,
     "less.validate": false,
@@ -44,12 +44,43 @@ Material Icon Theme
       "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "liveServer.settings.donotShowInfoMsg": true,
-    "window.zoomLevel": 3,
-   "workbench.colorTheme": "Outrun Night",
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Outrun Night",
     "workbench.iconTheme": "material-icon-theme",
     "editor.parameterHints.enabled": false,
     "explorer.compactFolders": false,
-    "sync.gist": "9b6da446037fce6191d45be183d6b452"
+    "sync.gist": "9b6da446037fce6191d45be183d6b452",
+    "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "vetur.format.defaultFormatterOptions": {
+    
+
+      "js-beautify-html": {
+        "wrap_attributes": "force-expand-multiline"
+      },
+      "prettyhtml": {
+        "printWidth": 100,
+        "singleQuote": false,
+        "wrapAttributes": false,
+        "sortAttributes": false
+      }
+    },
+    "tailwindCSS.emmetCompletions": true,
+    "workbench.editorAssociations": {
+      "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "code-runner.runInTerminal": true,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "emmet.includeLanguages": {
+      "\"nunjucks\"": "\"html\"",
+      "\"njk\"": "\"html\""
+    },
+    "files.associations": {
+      "\"*.njk\"": "\"html\""
+    },
+    "editor.bracketPairColorization.enabled": true
+    
   }
 ```
 
@@ -61,7 +92,7 @@ Material Icon Theme
 
 **Auto Rename Tag** Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 
-**Bracket Pair Colorizer Two** This extension allows matching brackets to be identified with colours. The user can define which tokens to match, and which colours to use.
+**Bracket Pair Colorizer Two** I AM NO  USING THIS VSCODE HAS ADDED THE OPTION NATIVELY INTO VSCODE!
 
 **Color Highlight** This extension styles css/web colors found in your document.
 

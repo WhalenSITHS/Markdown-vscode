@@ -67,9 +67,7 @@ Material Icon Theme
       }
     },
     "tailwindCSS.emmetCompletions": true,
-    "workbench.editorAssociations": {
-      "*.ipynb": "jupyter.notebook.ipynb"
-    },
+    
     "code-runner.runInTerminal": true,
     "bracket-pair-colorizer-2.depreciation-notice": false,
     "emmet.includeLanguages": {
@@ -92,8 +90,6 @@ Material Icon Theme
 
 **Auto Rename Tag** Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 
-**Bracket Pair Colorizer Two** I AM NO  USING THIS VSCODE HAS ADDED THE OPTION NATIVELY INTO VSCODE!
-
 **Color Highlight** This extension styles css/web colors found in your document.
 
 **HTML5 Boilerplate** This extension provides the standard HTML boilerplate code used in all web applications.
@@ -101,8 +97,6 @@ Material Icon Theme
 **HTML CSS Support for HTML Documents** Missing CSS support for HTML documents.
 
 **Image Preview** Shows image preview in the gutter and on hover
-
-**Live SASS Compiler** A VSCode Extension that help you to compile/transpile your SASS/SCSS files to CSS files at realtime with live browser reload.
 
 **Live Server Preview** Preview your HTML file with localhost server live-reloading enabled.
 

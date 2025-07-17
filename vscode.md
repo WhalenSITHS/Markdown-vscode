@@ -112,7 +112,7 @@ Material Icon Theme
 
 **NPM** NPM Commands for VSCode
 
-**Vetur** VSCode support for Vue
+**Vue formerly Volar** VSCode support for Vue
 
 **Vue VSCode Snippets** VSCode support for Vue
 
